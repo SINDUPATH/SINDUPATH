@@ -1,4 +1,4 @@
-# whoami
+# WHOAMI
 
 ## Its About ME
 
